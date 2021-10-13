@@ -1,2 +1,2 @@
 # My-Projects
-This Repository contains some of my codes of multiples languages.
+This Repository contains some of my codes in multiples languages.
