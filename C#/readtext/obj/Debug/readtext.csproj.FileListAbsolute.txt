@@ -1,0 +1,21 @@
+C:\Users\Bilal\source\repos\readtext\bin\Debug\readtext.exe.config
+C:\Users\Bilal\source\repos\readtext\bin\Debug\readtext.exe
+C:\Users\Bilal\source\repos\readtext\bin\Debug\readtext.pdb
+C:\Users\Bilal\source\repos\readtext\obj\Debug\readtext.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\readtext\obj\Debug\readtext.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\readtext\obj\Debug\readtext.exe
+C:\Users\Bilal\source\repos\readtext\obj\Debug\readtext.pdb
+B:\My Data\source\repos\readtext\bin\Debug\readtext.exe.config
+B:\My Data\source\repos\readtext\bin\Debug\readtext.exe
+B:\My Data\source\repos\readtext\bin\Debug\readtext.pdb
+B:\My Data\source\repos\readtext\obj\Debug\readtext.csprojAssemblyReference.cache
+B:\My Data\source\repos\readtext\obj\Debug\readtext.csproj.CoreCompileInputs.cache
+B:\My Data\source\repos\readtext\obj\Debug\readtext.exe
+B:\My Data\source\repos\readtext\obj\Debug\readtext.pdb
+D:\My Data\source\repos\readtext\bin\Debug\readtext.exe.config
+D:\My Data\source\repos\readtext\bin\Debug\readtext.exe
+D:\My Data\source\repos\readtext\bin\Debug\readtext.pdb
+D:\My Data\source\repos\readtext\obj\Debug\readtext.csproj.AssemblyReference.cache
+D:\My Data\source\repos\readtext\obj\Debug\readtext.csproj.CoreCompileInputs.cache
+D:\My Data\source\repos\readtext\obj\Debug\readtext.exe
+D:\My Data\source\repos\readtext\obj\Debug\readtext.pdb
