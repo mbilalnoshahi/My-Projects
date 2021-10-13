@@ -1,0 +1,2 @@
+C:\Users\Bilal\source\repos\sorting\obj\Debug\sorting.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\sorting\obj\Debug\sorting.csproj.CoreCompileInputs.cache

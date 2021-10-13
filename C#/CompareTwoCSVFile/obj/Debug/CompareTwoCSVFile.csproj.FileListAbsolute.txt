@@ -1,0 +1,14 @@
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\bin\Debug\CompareTwoCSVFile.exe.config
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\bin\Debug\CompareTwoCSVFile.exe
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\bin\Debug\CompareTwoCSVFile.pdb
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.exe
+C:\Users\Bilal\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.pdb
+B:\My Data\source\repos\CompareTwoCSVFile\bin\Debug\CompareTwoCSVFile.exe.config
+B:\My Data\source\repos\CompareTwoCSVFile\bin\Debug\CompareTwoCSVFile.exe
+B:\My Data\source\repos\CompareTwoCSVFile\bin\Debug\CompareTwoCSVFile.pdb
+B:\My Data\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.csprojAssemblyReference.cache
+B:\My Data\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.csproj.CoreCompileInputs.cache
+B:\My Data\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.exe
+B:\My Data\source\repos\CompareTwoCSVFile\obj\Debug\CompareTwoCSVFile.pdb

@@ -1,0 +1,4 @@
+C:\Users\Bilal\source\repos\compare2\obj\Debug\compare2.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\compare2\obj\Debug\compare2.csproj.CoreCompileInputs.cache
+B:\My Data\source\repos\compare2\obj\Debug\compare2.csprojAssemblyReference.cache
+B:\My Data\source\repos\compare2\obj\Debug\compare2.csproj.CoreCompileInputs.cache

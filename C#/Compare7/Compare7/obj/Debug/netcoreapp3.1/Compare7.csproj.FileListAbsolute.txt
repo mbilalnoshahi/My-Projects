@@ -1,0 +1,26 @@
+C:\Users\Bilal\source\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.exe
+C:\Users\Bilal\source\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.deps.json
+C:\Users\Bilal\source\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.runtimeconfig.json
+C:\Users\Bilal\source\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.runtimeconfig.dev.json
+C:\Users\Bilal\source\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.dll
+C:\Users\Bilal\source\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.pdb
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.AssemblyInfoInputs.cache
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.AssemblyInfo.cs
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.dll
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.pdb
+C:\Users\Bilal\source\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.genruntimeconfig.cache
+D:\My Data\source3\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.exe
+D:\My Data\source3\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.deps.json
+D:\My Data\source3\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.runtimeconfig.json
+D:\My Data\source3\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.runtimeconfig.dev.json
+D:\My Data\source3\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.dll
+D:\My Data\source3\repos\Compare7\Compare7\bin\Debug\netcoreapp3.1\Compare7.pdb
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.csproj.AssemblyReference.cache
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.AssemblyInfoInputs.cache
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.AssemblyInfo.cs
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.csproj.CoreCompileInputs.cache
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.dll
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.pdb
+D:\My Data\source3\repos\Compare7\Compare7\obj\Debug\netcoreapp3.1\Compare7.genruntimeconfig.cache

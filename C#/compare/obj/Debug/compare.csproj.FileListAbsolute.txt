@@ -1,0 +1,14 @@
+C:\Users\Bilal\source\repos\compare\obj\Debug\compare.csprojAssemblyReference.cache
+C:\Users\Bilal\source\repos\compare\obj\Debug\compare.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\compare\bin\Debug\compare.exe.config
+C:\Users\Bilal\source\repos\compare\bin\Debug\compare.exe
+C:\Users\Bilal\source\repos\compare\bin\Debug\compare.pdb
+C:\Users\Bilal\source\repos\compare\obj\Debug\compare.exe
+C:\Users\Bilal\source\repos\compare\obj\Debug\compare.pdb
+B:\My Data\source\repos\compare\bin\Debug\compare.exe.config
+B:\My Data\source\repos\compare\bin\Debug\compare.exe
+B:\My Data\source\repos\compare\bin\Debug\compare.pdb
+B:\My Data\source\repos\compare\obj\Debug\compare.csprojAssemblyReference.cache
+B:\My Data\source\repos\compare\obj\Debug\compare.csproj.CoreCompileInputs.cache
+B:\My Data\source\repos\compare\obj\Debug\compare.exe
+B:\My Data\source\repos\compare\obj\Debug\compare.pdb
